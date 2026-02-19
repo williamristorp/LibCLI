@@ -3,7 +3,6 @@
 ## Author: williamristorp
 ## Version: 1.0.0
 ## LoadOnDemand: 0
-## OptionalDeps: LibStub
 
 src/Util.lua
 src/Tokens.lua
