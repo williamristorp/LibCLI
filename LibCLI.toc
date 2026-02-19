@@ -1,0 +1,13 @@
+## Interface: 120000, 120001
+## Title: LibCLI
+## Author: williamristorp
+## Version: 1.0.0
+## LoadOnDemand: 0
+## OptionalDeps: LibStub
+
+src/Util.lua
+src/Tokens.lua
+src/Options.lua
+src/Commands.lua
+src/CLI.lua
+LibCLI.lua
